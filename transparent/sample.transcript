@@ -1,0 +1,69 @@
+[
+  {
+    "conversation": {
+      "id": "vSztfZJjt/u3arMWacACtBzDBTo="
+    },
+    "id": "1",
+    "recipient": {
+      "id": "xx5yYdN6T2rkz7DL15CBMQojfmc=",
+      "name": "bot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "Et6pb+wgWTVmq3VpLJlJWWgzrck=",
+      "name": "user",
+      "role": "user"
+    },
+    "timestamp": "2020-01-17T13:26:06.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "xx5yYdN6T2rkz7DL15CBMQojfmc=",
+        "name": "bot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "vSztfZJjt/u3arMWacACtBzDBTo="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "Et6pb+wgWTVmq3VpLJlJWWgzrck=",
+      "name": "user",
+      "role": "user"
+    },
+    "from": {
+      "id": "xx5yYdN6T2rkz7DL15CBMQojfmc=",
+      "name": "bot",
+      "role": "bot"
+    },
+    "text": "This will go to Joe, because he's first in the list\r\nFred: What about me?",
+    "timestamp": "2020-01-17T13:26:08.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "vSztfZJjt/u3arMWacACtBzDBTo="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "Et6pb+wgWTVmq3VpLJlJWWgzrck=",
+      "name": "user",
+      "role": "user"
+    },
+    "from": {
+      "id": "xx5yYdN6T2rkz7DL15CBMQojfmc=",
+      "name": "bot",
+      "role": "bot"
+    },
+    "text": "This will go to Fred, because he's the latest user to talk to the bot\r\nbot->Joe: This will always go to Joe\r\nbot->Fred: This will always go to Fred",
+    "timestamp": "2020-01-17T13:26:10.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

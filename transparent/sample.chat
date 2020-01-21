@@ -1,0 +1,5 @@
+bot: This will go to Joe, because he's first in the list
+Fred: What about me?
+bot: This will go to Fred, because he's the latest user to talk to the bot
+bot->Joe: This will always go to Joe
+bot->Fred: This will always go to Fred

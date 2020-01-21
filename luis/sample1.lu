@@ -1,0 +1,9 @@
+#Speaker
+- who is speaking about {subject=bot}
+- who is giving the {subject=keynote}
+
+#Location
+- where is {person=navod} talking
+
+$subject:Simple
+$person:Simple

@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es6",                      
+    "module": "commonjs",     
+    "sourceMap": true,
+    "declaration": false,                
+    "removeComments": true,
+    "allowJs": true,
+    "outDir": "./dist",
+    "strict": true, 
+    "forceConsistentCasingInFileNames": true
+  },
+  "files": [
+    "./lib/app.ts",
+    "./lib/types.ts",
+    "./lib/bot.ts",
+    "./lib/parser.ts",
+    "./lib/card.ts"
+  ]
+}

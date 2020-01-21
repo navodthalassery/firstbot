@@ -1,0 +1,68 @@
+{
+  "intents": [
+    {
+      "name": "Speaker"
+    },
+    {
+      "name": "Location"
+    }
+  ],
+  "entities": [
+    {
+      "name": "subject",
+      "roles": []
+    },
+    {
+      "name": "person",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "regex_entities": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "who is speaking about bot",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 22,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "who is giving the keynote",
+      "intent": "Speaker",
+      "entities": [
+        {
+          "entity": "subject",
+          "startPos": 18,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "where is navod talking",
+      "intent": "Location",
+      "entities": [
+        {
+          "entity": "person",
+          "startPos": 9,
+          "endPos": 13
+        }
+      ]
+    }
+  ],
+  "patterns": [],
+  "patternAnyEntities": [],
+  "prebuiltEntities": [],
+  "luis_schema_version": "3.2.0",
+  "versionId": "0.1",
+  "name": "sampleluis",
+  "desc": "",
+  "culture": "en-us"
+}

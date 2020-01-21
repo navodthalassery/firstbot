@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8">
+<conference name="edu2020" start-date="2020-01-21" end-date="2020-01-21">
+    <day date="2020-01-21">
+        <event type="Keynote" start-time="01:32 pm" endtime="02:32 pm">
+            <location>sample keynote location</lcation>
+            <speakers>sample speaker</speakers>
+            <title>sample title</title>
+            <description>sample description</description>
+            <keyword>subject</keyword>
+            <page>https://youtu.be/E-wdGonlNI8?list=PLz6hh7iUxR22NewUgZjhQxYL7iL6lAmUM</page>
+            <photos>
+                <photo type='speaker'>https://e-imgs.matrimonycdn.com/photos/2019/10/07/14/E5046992_wzaq_61389_TL_MH.webp</photo>
+            </photos>
+        </event>
+        <event type="Talk" start-time="02:45 pm" endtime="03:45 pm">
+            <location>sample talk1 location</lcation>
+            <speakers>sample speaker</speakers>
+            <title>sample title</title>
+            <description>sample description</description>
+            <keyword>keynote</keyword>
+            <page>https://youtu.be/E-wdGonlNI8?list=PLz6hh7iUxR22NewUgZjhQxYL7iL6lAmUM</page>
+            <photos>
+                <photo type='speaker'>https://e-imgs.matrimonycdn.com/photos/2019/10/07/14/E5046992_wzaq_61389_TL_MH.webp</photo>
+            </photos>
+        </event>
+        <event type="Talk" start-time="04:00 pm" endtime="05:00 pm">
+            <location>sample talk2 location</lcation>
+            <speakers>sample speaker</speakers>
+            <title>sample title</title>
+            <description>sample description</description>
+            <keyword>keynote</keyword>
+            <page>https://youtu.be/E-wdGonlNI8?list=PLz6hh7iUxR22NewUgZjhQxYL7iL6lAmUM</page>
+            <photos>
+                <photo type='speaker'>https://e-imgs.matrimonycdn.com/photos/2019/10/07/14/E5046992_wzaq_61389_TL_MH.webp</photo>
+            </photos>
+        </event>
+    </day>
+</conference>
