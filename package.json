@@ -21,7 +21,7 @@
     "chatdown": "^1.2.4",
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ludown": "^1.4.0",
     "metronical.proto": "^0.1.0",
     "nodemon": "^2.0.2",
